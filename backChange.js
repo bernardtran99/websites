@@ -1,4 +1,4 @@
-console.log("bakChange.js loaded");
+console.log("backChange.js loaded");
 
 var dsd = document.getElementById("dsd");
 var d6 = document.getElementById("d6");

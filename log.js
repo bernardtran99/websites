@@ -1,1 +1,1 @@
-console.log("log is loaded");
+console.log("log.js loaded");
